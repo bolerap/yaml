@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:kumcp/yaml.git
+    repoURL: git@github.com:bolerap/yaml.git
     targetRevision: master
     path: .
     directory:
